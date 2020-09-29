@@ -2,6 +2,10 @@
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
+github username: AlexHeffner
+pu1 username: aheffner
+ID: ah178217
+
 This is a simple project that contain some of the tools used in the class. For example,
 
 - .gitignore
@@ -34,7 +38,7 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 2. In the window with the command prompt (or powershell), type in the command for ssh:
 
 ```shell
-ssh username@pu1.cs.ohio.edu
+ssh aheffner@pu1.cs.ohio.edu
 ```
 
 Don't forget to replace the `AlexHeffner` with your actual username (it is not the same one as the email handle). If you forget your username, or password you can contact the system administrator, Mr. Carl Hawes.
@@ -45,12 +49,12 @@ and click "Add a feature", then search for "OpenSSH Client", and install it.
 For example, here is the output from the using `ssh aheffner@pu1.cs.ohio.edu` in command prompt
 
 ```
-C:\Users\Chang Liu>ssh changliu@pu1.cs.ohio.edu
+C:\Users\Chang Liu>ssh aheffner@pu1.cs.ohio.edu
 The authenticity of host 'pu1.cs.ohio.edu (132.235.1.15)' can't be established.
 ECDSA key fingerprint is SHA256:PCIKPlKu35MHGF+zSgDUbEvFRNDN8vapyp7lYVI+O8Q.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'pu1.cs.ohio.edu,132.235.1.15' (ECDSA) to the list of known hosts.
-changliu@pu1.cs.ohio.edu's password:
+aheffner@pu1.cs.ohio.edu's password:
 
 
       NEW SERVER CONFIGURATION:
