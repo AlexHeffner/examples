@@ -37,12 +37,12 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 ssh username@pu1.cs.ohio.edu
 ```
 
-Don't forget to replace the `username` with your actual username (it is not the same one as the email handle). If you forget your username, or password you can contact the system administrator, Mr. Carl Hawes.
+Don't forget to replace the `AlexHeffner` with your actual username (it is not the same one as the email handle). If you forget your username, or password you can contact the system administrator, Mr. Carl Hawes.
 
 If the error mention the ssh command not found, you need to enable OpenSSH client feature by search for "Manage optional features" in the start menu,
 and click "Add a feature", then search for "OpenSSH Client", and install it.
 
-For example, here is the output from the using `ssh changliu@pu1.cs.ohio.edu` in command prompt
+For example, here is the output from the using `ssh aheffner@pu1.cs.ohio.edu` in command prompt
 
 ```
 C:\Users\Chang Liu>ssh changliu@pu1.cs.ohio.edu
