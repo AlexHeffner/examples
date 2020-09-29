@@ -5,7 +5,7 @@ Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 github username: AlexHeffner
 pu1 username: aheffner
 ID: ah178217
-
+Updated
 This is a simple project that contain some of the tools used in the class. For example,
 
 - .gitignore
